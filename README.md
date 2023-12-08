@@ -9,6 +9,7 @@ To run the code, please use the following instructions:
 1. Visit the public notebook with the following link: https://www.kaggle.com/arnavamin/cs184a-ubc-final-project
 2. Using the 3-dot menu on the right side of the top taskbar, select "Accelerator" and choose the "GPU P100" option.
 3. On the top taskbar, click "Run All".
+4. Please allow about 15 minutes for the code to run.
 
 # Viewing the Pre-trained Model
 
